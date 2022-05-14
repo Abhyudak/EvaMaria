@@ -14,7 +14,7 @@
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/EvamariaTG/EvaMaria/blob/main/LICENSE)
 [![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/EvamariaTG/EvaMaria)
 
-<a href="https://heroku.com/deploy?template=https://github.com/Abhyudak/LuciferMoringstar-Robot")
+<a href="https://heroku.com/deploy?template=https://github.com/Abhyudak/EvaMaria")
 ## Features
 
 - [x] Auto Filter
