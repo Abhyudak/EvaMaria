@@ -14,13 +14,13 @@ class script(object):
 - ✰ 𝕊𝕆𝕌ℝℂ𝔼 ℂ𝕆𝔻𝔼 𝕀𝕊 ℕ𝕆𝕋 𝔸𝕍𝔸𝕀𝕃𝔸𝔹𝕃𝔼  
 
 <b>DEVS:</b>
-- <a href=https://t.me/Mo_TECH_YT>Team Eva Maria</a>"""
+- <a href=https://t.me/ToxicboymX>Rozarian</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. 𝐃𝐫.𝐒𝐓𝐑𝐀𝐍𝐆𝐄 should have admin privillage.
+1. 𝐀𝐊-𝐅𝐢𝐥𝐦𝐁𝐨𝐭 should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
@@ -31,11 +31,11 @@ class script(object):
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-- 𝐃𝐫.𝐒𝐓𝐑𝐀𝐍𝐆𝐄 Supports both url and alert inline buttons.
+- 𝐀𝐊-𝐅𝐢𝐥𝐦𝐁𝐨𝐭 Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. 𝐃𝐫.𝐒𝐓𝐑𝐀𝐍𝐆𝐄 supports buttons with any telegram media type.
+2. 𝐀𝐊-𝐅𝐈𝐋𝐌𝐁𝐎𝐓 supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
