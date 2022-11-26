@@ -53,7 +53,7 @@ Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up wi
 You can deploy this bot anywhere.
 
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/-)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/https://github.com/Abhyudak/EvaMaria/edit/master-)
 
 
 <i>**[Watch Deploying Tutorial...](https://youtu.be/fyFKnde_Jz8)**</i>
