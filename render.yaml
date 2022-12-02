@@ -25,6 +25,6 @@ services:
       value:
 
 databases:
-- name: EvaMaria 
+- name: MongoDB
   databaseName: MongoDB
   user: mongo
