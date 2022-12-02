@@ -1,0 +1,30 @@
+services:
+- type: web
+  name: EvaMaria 
+  env: python
+  plan: starter
+  buildCommand: ./build.sh
+  startCommand: gunicorn config.wsgi:application
+  autoDeploy: false
+  envVars:
+    - key: API_ID
+      value: 4
+    - key: DATABASE_URI
+      fromDatabase:
+        name: EvaMaria 
+        property: connectionString
+    - key: API_HASH
+      generateValue: true
+    - key: ADMINS
+      generateValue: true
+    - key: CHANNELS
+      value:
+    - key: LOG_CHANNEL
+      value:
+    - key: BOT_TOKEN
+      value:
+
+databases:
+- name: EvaMaria 
+  databaseName: MongoDB
+  user: mongo
